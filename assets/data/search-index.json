@@ -1,0 +1,30 @@
+[
+  {
+    "lang":"ar",
+    "title":"من هم الدروز؟",
+    "desc":"مدخل موسوعي موجز ومحايد.",
+    "url":"/ar/encyclopedia/who-are-the-druze.html",
+    "tags":["مدخل","هوية","تعريف"]
+  },
+  {
+    "lang":"ar",
+    "title":"لمحات تاريخية",
+    "desc":"محطات تاريخية مختصرة ومنظمة.",
+    "url":"/ar/encyclopedia/history.html",
+    "tags":["تاريخ","نشأة"]
+  },
+  {
+    "lang":"en",
+    "title":"Who are the Druze?",
+    "desc":"A concise, neutral encyclopedic introduction.",
+    "url":"/en/encyclopedia/who-are-the-druze.html",
+    "tags":["intro","identity"]
+  },
+  {
+    "lang":"en",
+    "title":"Historical Overview",
+    "desc":"Key milestones presented clearly.",
+    "url":"/en/encyclopedia/history.html",
+    "tags":["history","origins"]
+  }
+]
